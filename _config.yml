@@ -12,6 +12,7 @@ description:      'Thoughts-in-progress. <a href="https://twitter.com/trymarkcat
 url:              https://theabstractionlayer.com
 baseurl:          /
 repository:       markmccaigue.github.io/markmccaigue
+comments:         true
 
 author:
   name:           'Mark McCaigue'

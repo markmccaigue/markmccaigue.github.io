@@ -7,7 +7,7 @@ title: Home
   {% for post in site.posts %}
   
     <h1 class="post-title">
-      <a href="{{ post.url }}">
+      <a href="{{ post.url }}#disqus_thread">
         {{ post.title }}
       </a>
     </h1>
@@ -15,4 +15,7 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
   {% endfor %}
+
+  <script id="dsq-count-scr" src="//theabstractionlayer.disqus.com/count.js" async></script>
+
 </div>
