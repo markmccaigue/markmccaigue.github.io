@@ -10,7 +10,7 @@ title:            The Abstraction Layer
 tagline:          'Thoughts-in-progress.'
 description:      'Thoughts-in-progress. <a href="https://twitter.com/trymarkcatch">@trymarkcatch</a>'
 url:              https://theabstractionlayer.com
-baseurl:          /
+baseurl:          ''
 repository:       markmccaigue.github.io/markmccaigue
 comments:         true
 
