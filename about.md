@@ -28,6 +28,6 @@ Some places I've spoken at:
 + [NSBelfast](https://www.meetup.com/NS_Belfast/)
 + [Northern Ireland Developer Conference](https://2017.nidevconf.com/sessions/markmccaigue/)
 
-Software aside, I'm a bit of a self-development junkie, so I'm always likely to be in the midst of at least one ill-advised challenge or project. I have a keen interest in mindset, psychology, fitness, philosophy, and productivity, so you're as equally likely to find me puzzling over some plumbing as part of a DIY journey in my Victorian house as in the gym or lost in the latest pop-psychology book or podcast!  Of course, rest is serious business too, and I'm rarely happier than when I'm exploring a remote location camera-in-hand, with only mild concern that the nearest Pot Noodle could be a three-hour walk away.
+Software aside, I'm a bit of a self-development junkie, so I'm always likely to be in the midst of at least one possibly-ill-advised challenge or project. I have a keen interest in mindset, psychology, fitness, philosophy, and productivity, so you're as equally likely to find me puzzling over some plumbing as part of a DIY journey in my Victorian house as in the gym or lost in the latest pop-psychology book or podcast!  Of course, rest is serious business too, and I'm rarely happier than when I'm exploring a remote location camera-in-hand, with only mild concern that the nearest Pot Noodle could be a three-hour walk away.
 
 Feel free to connect with me on [Twitter](https://twitter.com/trymarkcatch/) or [Instagram](https://www.instagram.com/trymarkcatch/).
