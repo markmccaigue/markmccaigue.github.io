@@ -16,15 +16,12 @@ If you're not yet convinced to listen below, then please read some of the feedba
 
 > "This is excellent"
 
-#
 
 > "I didn't understand any of this after the first five minutes"
 
-#
 
 > "I really enjoyed that, it was interesting!"
 
-#
 
 > "You have a real face for radio"
 
