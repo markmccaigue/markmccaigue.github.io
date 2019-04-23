@@ -23,7 +23,7 @@ I've been fortunate to spend time all across the software map, from infrastructu
 
 Some places I've spoken at:
 
-<!-- + [WebTalksNI Podcast](https://soundcloud.com/talksnipodcasts) -->
++ [WebTalksNI Podcast]({% post_url 2019-04-23-in-which-i-do-a-podcast %})
 + [The Belfast .NET Developer Guild](https://www.meetup.com/Belfast-NET-Meetup/)
 + [NSBelfast](https://www.meetup.com/NS_Belfast/)
 + [Northern Ireland Developer Conference](https://2017.nidevconf.com/sessions/markmccaigue/)
