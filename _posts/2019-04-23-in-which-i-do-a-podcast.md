@@ -7,8 +7,18 @@ I'm a big fan of podcasts. It's a sentiment that can seem a little off-kilter - 
 
 Nevertheless, the medium itself, as a whole, has something to be said for it. Podcasts, particularly in their long-form, allow for a depth of treatment comparable to that of some books, providing the space for exposition and expansion rarely possible in an expensive TV slot, but adding a new dynamic of a back-and-forth conversation, where the listener has an avatar in the discourse to ask those pressing questions not often found in textbooks. Add in the multi-tasking joy enabled by the audio-only delivery and you're onto a winner.
 
-![](/images/spb.jpg)
-*At Scottish Provident Building*
+<div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/spb.jpg" itemprop="contentUrl" data-size="4032x3024">
+            <img src="/images/spb.jpg" itemprop="thumbnail" alt="Image description" />
+        </a>
+        <figcaption itemprop="caption description">At Scottish Provident Building</figcaption>
+    </figure>
+
+</div>
+
+{% include gallery.html %}
 
 All this to say, I listen to a fair few podcasts! I'm not sure that the skills of listening fully translate to being a guest, but regardless I was delighted to be invited to the beautiful grade A listed Scottish Provident Building in Belfast to speak with Gareth Stirling, and check off the 'do a podcast' entry in my big list of things to do. The topic of the day was my mobile software development framework of choice, Xamarin, and the conversation appeared on the WebTalksNI podcast.
 
