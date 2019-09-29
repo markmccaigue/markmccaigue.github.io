@@ -15,16 +15,16 @@ Whats most interesting is I've found that neglecting one or another leads to cas
 
 I've found that it takes a lot of discipline to build a habit, a little reflection to turn that habit into a system, and very little effort to maintain a habit with the support of a system. So I'm hoping to gain enough insight over this week to improve some systems. Below is a summary of what I'm hoping to achieve.
 
-###Diet
+### Diet
 This should be the most straightforward one, not because of any special talent, but because I've spent a few months tracking and tweaking calories and macros, and finding ways to hit them sustainably. It's to the extent now that passivity will lead to adherence, and I'd have to put in effort to seek out chances to fall off the wagon. Success here will look like hitting protein, fat, carb, and calorie goals each day, with an allowance of one slightly more relaxed meal through the course of the week, usually I would cash this in during a meal out with friends or fam.
 
-###Physical Training
+### Physical Training
 This is another area where I've been in the process of building a routine over a good period of time. I'm carrying a bit of an injury currently (despite a regular routine of powerlifting I in fact sustained this one reaching for an object in a shop...) so won't be pushing out any PRs, but I'm still hoping to do full routines adjusted down for weight where appropriate. I've been working over the last few months, by trial and error and reflection, on a routine that is challenging but sustainable, and the current iteration ideally takes the form of 6 days a week of training, comprising 3 days of weight training, 3 days of cardio, and one day of total rest, so I'm aiming to fit that into this week.
 
-###Sleep
+### Sleep
 Historically, my sleep consistency and timing have been mildly horrifying. It's an area where I haven't delved much into science or tracking, instead gaining any improvements largely off the back of general lifestyle improvements. Over the last couple of years I've become increasingly better at getting good amounts of sleep as a side effect, and regularly now get 7-8 hours. I'm not at all, and despite many efforts, a morning person, and my sleep cycle runs a little late, normally around 1am-9am. Over this week, I'm planning to mainly observe how my body regulates its own sleep given an absence of alarms and schedules, something I don't typically get away from even on a 'proper' holiday. I have a bad habit of letting my sleep phase slip much later in the day in the absence of an external schedule, and the period towards the end of my university degree where I was regularly sleeping between 7am and 2pm comes to mind. I can confirm that's a not a great sleep schedule and I do not recommend it if you enjoy eating, meeting people, or doing things. So maybe a goal of avoiding that again.
 
-###Meditation
+### Meditation
 This is the one I'm most curious about. Of all the wellbeing practices I've mentioned so far, meditation has tended to provide the most benefit for the amount of effort invested, a fairly strong claim when the other practices include eating, sleep, and exercise, I'm sure you'll agree.
 
 The state of consciousness achieved during meditation is fairly profound, and in much the same was as the taste of an apple could be easily explained, it's not really understood until it's experienced. But to endeavour to try, there's a grounding quality to the practice, a feeling of disconnectedness from negative emotional states, which appear, from this relaxed state, inconsequentially transient and something to be observed rather than experienced. In contrast, there is a feeling of connectedness to the universe at large, which quickly rushes to become peace, then gratitude, then joy, then compassion with such force and rapidity that there seems little doubt that this is in fact our natural state, if only we could stop being momentarily distracted by thought and activity to notice.
