@@ -20,106 +20,106 @@ To help with fundraising, I'm planning to share a few (I lost some to bluetooth 
 <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
     <figure class="mainfig" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4985.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4985.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4985.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4985.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4984.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4984.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4984.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4984.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4983.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4983.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4983.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4983.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4982.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4982.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4982.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4982.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4981.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4981.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4981.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4981.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4624.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4624.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4624.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4624.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4625.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4625.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4625.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4625.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4626.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4626.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4626.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4626.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4627.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4627.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4627.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4627.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4628.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4628.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4628.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4628.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4629.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4629.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4629.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4629.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4630.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4630.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4630.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4630.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4631.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4631.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4631.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4631.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4632.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4632.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4632.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4632.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="/images/IMG_4633.png" itemprop="contentUrl" data-size="1242x2688">
-            <img src="/images/IMG_4633.png" itemprop="thumbnail" alt="Run pic" />
+        <a href="/images/IMG_4633.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_4633.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
         <figcaption itemprop="caption description">Run pic</figcaption>
     </figure>
