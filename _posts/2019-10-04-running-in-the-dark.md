@@ -20,6 +20,48 @@ To help with fundraising, I'm planning to share a few (I lost some to bluetooth 
 <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
     <figure class="mainfig" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/IMG_5215.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_5215.PNG" itemprop="thumbnail" alt="Run pic" />
+        </a>
+        <figcaption itemprop="caption description">Run pic</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/IMG_5214.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_5214.PNG" itemprop="thumbnail" alt="Run pic" />
+        </a>
+        <figcaption itemprop="caption description">Run pic</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/IMG_5213.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_5213.PNG" itemprop="thumbnail" alt="Run pic" />
+        </a>
+        <figcaption itemprop="caption description">Run pic</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/IMG_5212.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_5212.PNG" itemprop="thumbnail" alt="Run pic" />
+        </a>
+        <figcaption itemprop="caption description">Run pic</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/IMG_5211.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_5211.PNG" itemprop="thumbnail" alt="Run pic" />
+        </a>
+        <figcaption itemprop="caption description">Run pic</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/IMG_5210.PNG" itemprop="contentUrl" data-size="1242x2688">
+            <img src="/images/IMG_5210.PNG" itemprop="thumbnail" alt="Run pic" />
+        </a>
+        <figcaption itemprop="caption description">Run pic</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
         <a href="/images/IMG_4985.PNG" itemprop="contentUrl" data-size="1242x2688">
             <img src="/images/IMG_4985.PNG" itemprop="thumbnail" alt="Run pic" />
         </a>
