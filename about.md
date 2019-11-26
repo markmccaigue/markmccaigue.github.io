@@ -9,7 +9,7 @@ title: About
 
 Welcome to my little hub on the internet. Please take a look around if you'd like to find out more about me.
 
-I'm a Software Engineer by trade, living in Northern Ireland. I work with an amazing group of people <a href="https://twitter.com/theappbuilder">@theappbuilder</a>, where we're building a SaaS platform that's helping to power communications for hundreds of thousands of users worldwide.
+I'm a Software Engineer by trade, living in Northern Ireland. I work with an amazing group of people at <a href="https://twitter.com/_ThriveApp">Thrive</a>, where we're building a SaaS platform that's helping to power communications for hundreds of thousands of users worldwide.
 
 I enjoy the process of crafting delightful and engaging experiences for application users, and of building elegant, fast, and scalable systems.
 
