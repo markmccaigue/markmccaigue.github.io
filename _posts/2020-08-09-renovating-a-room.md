@@ -22,7 +22,7 @@ To start with, the room was fairly aggressively ugly, with unpleasant and mismat
 
 I'll skip straight to the end briefly, and show a quick video of how things turned out, and then, for the interested, I'll show the progress of the project below.
 
-<video controls style="max-width: 100%" src="/video/tour.mp4"/>
+<video controls style="max-width: 100%" src="/video/tour.mp4"></video>
 
 So, first things first, I started with a bit of good old-fashioned planning. At the start of lockdown, with half an eye on this project, I had undertaken to organise all my DIY and car maintenance products and tools - far too often I would end up rebuying some small tool or adpater or bit that it turned out I did actually already own but was unable to find. Taking this inventory and spending a day tidying allowed me to make a list of all the bits I already had, and then a list of all the bits that I would need to acquire for this job. I ended up buying another little  plastic storage unit so I'd have a bit of space to see what I was working with.
 
