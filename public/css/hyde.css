@@ -307,3 +307,7 @@ a.sidebar-nav-item:focus {
 a {
   word-break: break-word;
 }
+
+video{
+  max-width: 100%;
+}
