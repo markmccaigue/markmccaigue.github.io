@@ -31,13 +31,11 @@ In a world where I'm trying to become a tennis pro, I live in a world of sponsor
 
 Through the mechanism of choosing my goals, I have created two entirely different worlds which I could inhabit. Of course, choices like this are borne out daily. There really are tennis pros, and there are physicists, and although they objectively live in the same world, they, through the choice of their goals, experience it profoundly differently.
 
-However, it's not as though our goals appear from nothing, fundamental entities with no precursor. Instead, they are the product of our values. l In fact, it could be said that we approach our goals goal to the degree to which we align our actions to our values.
+However, it's not as though our goals appear from nothing, fundamental entities with no precursor. Instead, they are the product of our values. In fact, it could be said that we approach our goals to the degree to which we align our actions to our values.
 
-If I value expanding the field of Physics, I approach the goal of publishing my paper insofar as I act in such a way that someone who values expanding the field of Physics would act. The paper appears as a by-product, a physical artefact emerging from the process of integrating my personality to align my actions with my values.
+If I value expanding the field of Physics, I approach the goal of publishing my paper insofar as I act in such a way that someone who values expanding the field of Physics would act. The paper appears as a by-product, a physical artefact emerging from the process of integrating my personality.
 
-Goals, then, are ideal states borne from our values, and are achieved to the degree to which we have integrated our personality - aligning our actions with our values.
-
-So we've seen that our reality is altered by our perception, which depends on our goals, which emerge from our values.
+So, most concisely, we've seen that our reality is altered by our perception, which depends on our goals, which emerge from our values.
 
 Imagine, then, what could pop into your reality were you to nurture positive values and pursue meaningful and uplifting goals. How many wonderful things might appear if you cultivate a value of gratitude? How many tools and opportunities might appear if you set a goal of improving the lives of those around you? In this way, you really are the creator of your own universe.
 
